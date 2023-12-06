@@ -30,4 +30,4 @@ async def solution(ctx):
 async def help(ctx):
     await ctx.send(f'Список комманд: $hello и $hi - комманды приветсвия; $pollution_problem - комманда которая сообщает о проблеме загрезнения; $solution - комманда сообщаещая как можно использовать пластик и другие бытовые долго разлагающие материалы; $help - комманда показываящая список комманд')
 
-bot.run('MTE4MDUwMTc4NDg2NzkwMTQ0MA.GPy6L8.6z3Zrn2gq5kfItQ9iE9Yf4S-ZWQd6wpYeK8VfM')
+bot.run('YOUR TOKEN')
